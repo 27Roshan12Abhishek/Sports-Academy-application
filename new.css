@@ -1,0 +1,530 @@
+body{
+    background-image: url(back13.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header
+{
+    text-align: center;
+    background-color: powderblue;
+    height:70px;
+    border:solid;
+   width: 100%;
+   }
+nav
+{
+     
+    height:70px;
+    }
+section
+{
+    height:900px;
+    
+    width: 30%;
+
+}
+aside
+{
+ height:905px;
+    
+    width: 69.5%;
+    float:right;
+    margin-top: -906px;
+   
+}
+footer
+{
+    background-color: black;
+    height:80px;
+    border: solid;
+}
+
+#one ul{
+    list-style: none;
+    text-align: center;
+}
+#one li{
+    display:inline-block;
+}
+#one a{
+    text-decoration: none;
+    color: blue;
+    display: block;
+    width: 250px;
+    margin: 1px;
+    font-size: 30px;
+    
+    font-style: normal;
+    font-family: fantasy;
+}
+#one a:hover{
+    background: yellow;
+    transition: 0.5s;
+}
+#section div{
+    
+    
+    margin-left: 70px;
+    margin-right: 2px;
+    margin-top: 40px;
+    padding: 60px;
+
+}
+#aside div{
+    
+    width: 20%;
+    height: 20%;
+    margin-left: 1px;
+    margin-right: 20px;
+    margin-top: 20px;
+    float: right;
+    padding: 70px;
+    padding-left: 5px;
+    padding-top: 35px;
+}
+
+.image1{
+    margin-left: -80px;
+    width: 295.9px;
+    height:188px;
+    margin-top:-80px;
+}
+.b10{
+    width: 250px;
+    height: 40px;
+    background-color: peru;
+    outline: none;
+   margin-left: -24%;
+    
+    top: 30%;
+    border-radius: 10px;
+}
+.b10:hover{
+    background-color: aqua;
+}
+.i10{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    color: black;
+    text-decoration: none;
+}
+.b11{
+    width: 250px;
+    height: 40px;
+    background-color: peru;
+    outline: none;
+   margin-left: -24%;
+    
+    top: 60%;
+    border-radius: 10px;
+}
+.b11:hover{
+    background-color: aqua;
+}
+.i11{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    color: black;
+    text-decoration: none;
+}
+.b12{
+    width: 250px;
+    height: 40px;
+    background-color: peru;
+    outline: none;
+   margin-left: -24%;
+    
+    top: 60%;
+    border-radius: 10px;
+}
+.b12:hover{
+    background-color: aqua;
+}
+.i12{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    color: black;
+    text-decoration: none;
+}
+.image2{
+    margin-left: -80px;
+    width: 295.9px;
+    height:188px;
+    margin-top:-80px;
+}
+.b1{
+    width: 200px;
+    height: 40px;
+    background-color:peru;
+    outline: none;
+    position: absolute;
+    top: 68%;
+    left: 79.9%;
+    border: none;
+    border-radius: 10px;
+    }
+.b1:hover{
+    background-color: aqua;
+}
+.i1{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.bb1{
+     width: 50px;
+    height: 25px;
+    background-color:brown;
+    outline: none;
+    position: absolute;
+    top: 63%;
+    left: 93.5%;
+    border: none;
+    
+    
+}
+.ii1{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+
+.b2{
+    width: 200px;
+    height: 40px;
+    background-color:peru;
+    outline: none;
+    position: absolute;
+    top: 68%;
+    left: 59.8%;
+    border: none;
+    border-radius: 10px;
+}
+.b2:hover{
+    background-color: aqua;
+}
+.i2{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.bb2{
+     width: 50px;
+    height: 25px;
+    background-color:brown;
+    outline: none;
+    position: absolute;
+    top: 63%;
+    left: 73.5%;
+    border: none;
+    
+    
+}
+.ii2{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.b3{
+    width: 200px;
+    height: 40px;
+    background-color:peru;
+    outline: none;
+    position: absolute;
+    top: 68%;
+    left: 39.7%;
+    border: none;
+    border-radius: 10px;
+}
+.b3:hover{
+    background-color: aqua;
+}
+.i3{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.bb3{
+     width: 50px;
+    height: 25px;
+    background-color:brown;
+    outline: none;
+    position: absolute;
+    top: 63%;
+    left: 53.%;
+    border: none;
+    
+    
+}
+.ii3{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.b4{
+    width: 200px;
+    height: 40px;
+    background-color:peru;
+    outline: none;
+    position: absolute;
+    top: 109%;
+    left: 79.9%;
+    border: none;
+    border-radius: 10px;
+}
+.b4:hover{
+    background-color: aqua;
+}
+.i4{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.bb4{
+     width: 50px;
+    height: 25px;
+    background-color:brown;
+    outline: none;
+    position: absolute;
+    top: 103.5%;
+    left: 53.4%;
+    border: none;
+    
+    
+}
+.ii4{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.b5{
+    width: 200px;
+    height: 40px;
+    background-color:peru;
+    outline: none;
+    position: absolute;
+    top: 109%;
+    left: 59.8%;
+    border: none;
+    border-radius: 10px;
+}
+.b5:hover{
+    background-color: aqua;
+}
+.i5{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.bb5{
+     width: 50px;
+    height: 25px;
+    background-color:brown;
+    outline: none;
+    position: absolute;
+    top: 103.5%;
+    left: 73.5%;
+    border: none;
+    
+    
+}
+.ii5{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.b6{
+    width: 200px;
+    height: 40px;
+    background-color:peru;
+    outline: none;
+    position: absolute;
+    top: 109%;
+    left: 39.7%;
+    border: none;
+    border-radius: 10px;
+}
+.b6:hover{
+    background-color: aqua;
+}
+.i6{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.bb6{
+     width: 50px;
+    height: 25px;
+    background-color:brown;
+    outline: none;
+    position: absolute;
+    top: 103.5%;
+    left: 93.7%;
+    border: none;
+    
+    
+}
+.ii6{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.b7{
+    width: 200px;
+    height: 40px;
+    background-color:peru;
+    outline: none;
+    position: absolute;
+    top: 149%;
+    left: 79.9%;
+    border: none;
+    border-radius: 10px;
+    
+}
+.b7:hover{
+    background-color: aqua;
+}
+.i7{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.bb7{
+     width: 50px;
+    height: 25px;
+    background-color:brown;
+    outline: none;
+    position: absolute;
+    top: 145%;
+    left: 93.7%;
+    border: none;
+    
+    
+}
+.ii7{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.b8{
+    width: 200px;
+    height: 40px;
+    background-color:peru;
+    outline: none;
+    position: absolute;
+    top: 149%;
+    left: 59.8%;
+    border: none;
+    border-radius: 10px;
+}
+.b8:hover{
+    background-color: aqua;
+}
+.i8{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.bb8{
+     width: 50px;
+    height: 25px;
+    background-color:brown;
+    outline: none;
+    position: absolute;
+    top: 145%;
+    left: 73.5%;
+    border: none;
+    
+    
+}
+.ii8{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.b9{
+    width: 200px;
+    height: 40px;
+    background-color:peru;
+    outline: none;
+    position: absolute;
+    top: 149%;
+    left: 39.7%;
+    border: none;
+    border-radius: 10px;
+}
+.b9:hover{
+    background-color: aqua;
+}
+.i9{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+.bb9{
+     width: 50px;
+    height: 25px;
+    background-color:brown;
+    outline: none;
+    position: absolute;
+    top: 145%;
+    left: 53.5%;
+    border: none;
+    
+    
+}
+.ii9{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+}
+#address
+{
+    text-shadow: whight;
+    font-family:sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    
+}
